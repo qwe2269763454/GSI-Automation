@@ -6,7 +6,7 @@ on:
     
 env:
   ROM_URL: https://hugeota.d.miui.com/20.10.30/miui_DAVINCI_20.10.30_98087cc27c_11.0.zip
-  ROM_NAME: MIUI
+  ROM_NAME: Generic
   TZ: Asia/Shanghai
 
 jobs:
